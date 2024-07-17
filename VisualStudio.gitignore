@@ -3,12 +3,20 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+#Incluye Roll estos
+EFCore_Activity0302-SQLServerPeliculas*.*
+EFCore_DbLibrary.rar
+InventoryManagerDb.bak	
+InventoryManagerDb.bak.txt
+VerificandoQueEstePresenteEnRamaCap4.txt
+
 # User-specific files
 *.rsuser
 *.suo
 *.user
 *.userosscache
 *.sln.docstates
+
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
