@@ -1,0 +1,16 @@
+D:\___Files\VS\BaseDatos\EFCore_Activity0302\EFCore_DbLibrary\bin\Debug\net8.0\EFCore_DbLibrary.deps.json
+D:\___Files\VS\BaseDatos\EFCore_Activity0302\EFCore_DbLibrary\bin\Debug\net8.0\EFCore_DbLibrary.dll
+D:\___Files\VS\BaseDatos\EFCore_Activity0302\EFCore_DbLibrary\bin\Debug\net8.0\EFCore_DbLibrary.pdb
+D:\___Files\VS\BaseDatos\EFCore_Activity0302\EFCore_DbLibrary\obj\Debug\net8.0\EFCore_DbLibrary.csproj.AssemblyReference.cache
+D:\___Files\VS\BaseDatos\EFCore_Activity0302\EFCore_DbLibrary\obj\Debug\net8.0\EFCore_DbLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\___Files\VS\BaseDatos\EFCore_Activity0302\EFCore_DbLibrary\obj\Debug\net8.0\EFCore_DbLibrary.AssemblyInfoInputs.cache
+D:\___Files\VS\BaseDatos\EFCore_Activity0302\EFCore_DbLibrary\obj\Debug\net8.0\EFCore_DbLibrary.AssemblyInfo.cs
+D:\___Files\VS\BaseDatos\EFCore_Activity0302\EFCore_DbLibrary\obj\Debug\net8.0\EFCore_DbLibrary.csproj.CoreCompileInputs.cache
+D:\___Files\VS\BaseDatos\EFCore_Activity0302\EFCore_DbLibrary\obj\Debug\net8.0\EFCore_DbLibrary.sourcelink.json
+D:\___Files\VS\BaseDatos\EFCore_Activity0302\EFCore_DbLibrary\obj\Debug\net8.0\EFCore_DbLibrary.dll
+D:\___Files\VS\BaseDatos\EFCore_Activity0302\EFCore_DbLibrary\obj\Debug\net8.0\refint\EFCore_DbLibrary.dll
+D:\___Files\VS\BaseDatos\EFCore_Activity0302\EFCore_DbLibrary\obj\Debug\net8.0\EFCore_DbLibrary.pdb
+D:\___Files\VS\BaseDatos\EFCore_Activity0302\EFCore_DbLibrary\obj\Debug\net8.0\ref\EFCore_DbLibrary.dll
+D:\___Files\VS\BaseDatos\EFCore_Activity0302\EFCore_DbLibrary\bin\Debug\net8.0\InventoryModels.dll
+D:\___Files\VS\BaseDatos\EFCore_Activity0302\EFCore_DbLibrary\bin\Debug\net8.0\InventoryModels.pdb
+D:\___Files\VS\BaseDatos\EFCore_Activity0302\EFCore_DbLibrary\obj\Debug\net8.0\EFCore_D.95B8FD56.Up2Date

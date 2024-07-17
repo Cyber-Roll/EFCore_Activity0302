@@ -1,0 +1,12 @@
+D:\___Files\VS\BaseDatos\EFCore_Activity0302\InventoryModels\bin\Debug\net8.0\InventoryModels.deps.json
+D:\___Files\VS\BaseDatos\EFCore_Activity0302\InventoryModels\bin\Debug\net8.0\InventoryModels.dll
+D:\___Files\VS\BaseDatos\EFCore_Activity0302\InventoryModels\bin\Debug\net8.0\InventoryModels.pdb
+D:\___Files\VS\BaseDatos\EFCore_Activity0302\InventoryModels\obj\Debug\net8.0\InventoryModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\___Files\VS\BaseDatos\EFCore_Activity0302\InventoryModels\obj\Debug\net8.0\InventoryModels.AssemblyInfoInputs.cache
+D:\___Files\VS\BaseDatos\EFCore_Activity0302\InventoryModels\obj\Debug\net8.0\InventoryModels.AssemblyInfo.cs
+D:\___Files\VS\BaseDatos\EFCore_Activity0302\InventoryModels\obj\Debug\net8.0\InventoryModels.csproj.CoreCompileInputs.cache
+D:\___Files\VS\BaseDatos\EFCore_Activity0302\InventoryModels\obj\Debug\net8.0\InventoryModels.sourcelink.json
+D:\___Files\VS\BaseDatos\EFCore_Activity0302\InventoryModels\obj\Debug\net8.0\InventoryModels.dll
+D:\___Files\VS\BaseDatos\EFCore_Activity0302\InventoryModels\obj\Debug\net8.0\refint\InventoryModels.dll
+D:\___Files\VS\BaseDatos\EFCore_Activity0302\InventoryModels\obj\Debug\net8.0\InventoryModels.pdb
+D:\___Files\VS\BaseDatos\EFCore_Activity0302\InventoryModels\obj\Debug\net8.0\ref\InventoryModels.dll

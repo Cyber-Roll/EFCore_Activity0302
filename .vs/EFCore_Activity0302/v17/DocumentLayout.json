@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\___Files\\VS\\BaseDatos\\EFCore_Activity0302\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0FCDCB4B-8436-4144-A413-D12A45280F1C}|EFCore_Activity0302\\EFCore_Activity0302.csproj|d:\\___files\\vs\\basedatos\\efcore_activity0302\\efcore_activity0302\\configurationbuildersingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FCDCB4B-8436-4144-A413-D12A45280F1C}|EFCore_Activity0302\\EFCore_Activity0302.csproj|solutionrelative:efcore_activity0302\\configurationbuildersingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\___Files\\VS\\BaseDatos\\EFCore_Activity0302\\EFCore_DbLibrary\\Migrations\\20240717180730_rollMigraInicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EFCore_DbLibrary\\Migrations\\20240717180730_rollMigraInicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FCDCB4B-8436-4144-A413-D12A45280F1C}|EFCore_Activity0302\\EFCore_Activity0302.csproj|d:\\___files\\vs\\basedatos\\efcore_activity0302\\efcore_activity0302\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FCDCB4B-8436-4144-A413-D12A45280F1C}|EFCore_Activity0302\\EFCore_Activity0302.csproj|solutionrelative:efcore_activity0302\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61147EFA-7FDB-42A7-9016-5A4C5EA04435}|EFCore_DbLibrary\\EFCore_DbLibrary.csproj|d:\\___files\\vs\\basedatos\\efcore_activity0302\\efcore_dblibrary\\inventorydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61147EFA-7FDB-42A7-9016-5A4C5EA04435}|EFCore_DbLibrary\\EFCore_DbLibrary.csproj|solutionrelative:efcore_dblibrary\\inventorydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FCDCB4B-8436-4144-A413-D12A45280F1C}|EFCore_Activity0302\\EFCore_Activity0302.csproj|d:\\___files\\vs\\basedatos\\efcore_activity0302\\efcore_activity0302\\configurationbuildersingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FCDCB4B-8436-4144-A413-D12A45280F1C}|EFCore_Activity0302\\EFCore_Activity0302.csproj|solutionrelative:efcore_activity0302\\configurationbuildersingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,27 +47,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "20240717180730_rollMigraInicial.cs",
+              "DocumentMoniker": "D:\\___Files\\VS\\BaseDatos\\EFCore_Activity0302\\EFCore_DbLibrary\\Migrations\\20240717180730_rollMigraInicial.cs",
+              "RelativeDocumentMoniker": "EFCore_DbLibrary\\Migrations\\20240717180730_rollMigraInicial.cs",
+              "ToolTip": "D:\\___Files\\VS\\BaseDatos\\EFCore_Activity0302\\EFCore_DbLibrary\\Migrations\\20240717180730_rollMigraInicial.cs",
+              "RelativeToolTip": "EFCore_DbLibrary\\Migrations\\20240717180730_rollMigraInicial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T18:07:30.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ConfigurationBuilderSingleton.cs",
               "DocumentMoniker": "D:\\___Files\\VS\\BaseDatos\\EFCore_Activity0302\\EFCore_Activity0302\\ConfigurationBuilderSingleton.cs",
               "RelativeDocumentMoniker": "EFCore_Activity0302\\ConfigurationBuilderSingleton.cs",
               "ToolTip": "D:\\___Files\\VS\\BaseDatos\\EFCore_Activity0302\\EFCore_Activity0302\\ConfigurationBuilderSingleton.cs",
               "RelativeToolTip": "EFCore_Activity0302\\ConfigurationBuilderSingleton.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAApAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T14:26:34.064Z",
+              "WhenOpened": "2024-07-17T17:36:19.92Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\___Files\\VS\\BaseDatos\\EFCore_Activity0302\\EFCore_Activity0302\\Program.cs",
-              "RelativeDocumentMoniker": "EFCore_Activity0302\\Program.cs",
-              "ToolTip": "D:\\___Files\\VS\\BaseDatos\\EFCore_Activity0302\\EFCore_Activity0302\\Program.cs",
-              "RelativeToolTip": "EFCore_Activity0302\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Title": "InventoryDbContext.cs",
+              "DocumentMoniker": "D:\\___Files\\VS\\BaseDatos\\EFCore_Activity0302\\EFCore_DbLibrary\\InventoryDbContext.cs",
+              "RelativeDocumentMoniker": "EFCore_DbLibrary\\InventoryDbContext.cs",
+              "ToolTip": "D:\\___Files\\VS\\BaseDatos\\EFCore_Activity0302\\EFCore_DbLibrary\\InventoryDbContext.cs",
+              "RelativeToolTip": "EFCore_DbLibrary\\InventoryDbContext.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwB8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T14:01:16.552Z",
+              "WhenOpened": "2024-07-17T17:36:13.255Z",
               "EditorCaption": ""
             }
           ]

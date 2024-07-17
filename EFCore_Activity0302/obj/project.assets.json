@@ -1624,6 +1624,34 @@
             "rid": "win"
           }
         }
+      },
+      "EFCore_DbLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "InventoryModels": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "8.0.7",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.7",
+          "Microsoft.Extensions.Configuration": "8.0.0",
+          "Microsoft.Extensions.Configuration.FileExtensions": "8.0.1",
+          "Microsoft.Extensions.Configuration.Json": "8.0.0"
+        },
+        "compile": {
+          "bin/placeholder/EFCore_DbLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EFCore_DbLibrary.dll": {}
+        }
+      },
+      "InventoryModels/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/InventoryModels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InventoryModels.dll": {}
+        }
       }
     }
   },
@@ -4396,10 +4424,21 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "EFCore_DbLibrary/1.0.0": {
+      "type": "project",
+      "path": "../EFCore_DbLibrary/EFCore_DbLibrary.csproj",
+      "msbuildProject": "../EFCore_DbLibrary/EFCore_DbLibrary.csproj"
+    },
+    "InventoryModels/1.0.0": {
+      "type": "project",
+      "path": "../InventoryModels/InventoryModels.csproj",
+      "msbuildProject": "../InventoryModels/InventoryModels.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "EFCore_DbLibrary >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 8.0.7",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.7",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.7",
@@ -4443,7 +4482,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\___Files\\VS\\BaseDatos\\EFCore_Activity0302\\EFCore_DbLibrary\\EFCore_DbLibrary.csproj": {
+              "projectPath": "D:\\___Files\\VS\\BaseDatos\\EFCore_Activity0302\\EFCore_DbLibrary\\EFCore_DbLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

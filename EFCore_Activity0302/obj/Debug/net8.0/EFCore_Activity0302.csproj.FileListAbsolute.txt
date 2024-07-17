@@ -135,3 +135,9 @@ D:\___Files\VS\BaseDatos\EFCore_Activity0302\EFCore_Activity0302\obj\Debug\net8.
 D:\___Files\VS\BaseDatos\EFCore_Activity0302\EFCore_Activity0302\obj\Debug\net8.0\EFCore_Activity0302.pdb
 D:\___Files\VS\BaseDatos\EFCore_Activity0302\EFCore_Activity0302\obj\Debug\net8.0\EFCore_Activity0302.genruntimeconfig.cache
 D:\___Files\VS\BaseDatos\EFCore_Activity0302\EFCore_Activity0302\obj\Debug\net8.0\ref\EFCore_Activity0302.dll
+D:\___Files\VS\BaseDatos\EFCore_Activity0302\EFCore_Activity0302\obj\Debug\net8.0\EFCore_Activity0302.sourcelink.json
+D:\___Files\VS\BaseDatos\EFCore_Activity0302\EFCore_Activity0302\bin\Debug\net8.0\appsettings.json
+D:\___Files\VS\BaseDatos\EFCore_Activity0302\EFCore_Activity0302\bin\Debug\net8.0\EFCore_DbLibrary.dll
+D:\___Files\VS\BaseDatos\EFCore_Activity0302\EFCore_Activity0302\bin\Debug\net8.0\EFCore_DbLibrary.pdb
+D:\___Files\VS\BaseDatos\EFCore_Activity0302\EFCore_Activity0302\bin\Debug\net8.0\InventoryModels.dll
+D:\___Files\VS\BaseDatos\EFCore_Activity0302\EFCore_Activity0302\bin\Debug\net8.0\InventoryModels.pdb
